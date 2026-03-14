@@ -79,7 +79,6 @@ Create a `.env` file in the backend folder:
 ```env
 PORT=5000
 OPENAI_API_KEY=your_openai_key
-JWT_SECRET=your_secret
 ```
 
 ---
