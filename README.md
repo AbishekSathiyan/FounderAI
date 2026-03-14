@@ -1,5 +1,4 @@
-
-# Founder AI 
+# Founder AI 🚀
 
 Founder AI is an **AI-powered web application** that helps entrepreneurs identify the **best UAE free zone** to start their business. The platform analyzes founder requirements such as business activity, budget, visa needs, and office preferences, then recommends the most suitable free zones with intelligent insights.
 
@@ -9,11 +8,11 @@ Founder AI is an **AI-powered web application** that helps entrepreneurs identif
 
 Starting a business in the UAE can be confusing for new founders because there are **40+ free zones**, each with different:
 
-- License costs
-- Visa quotas
-- Business activities
-- Office requirements
-- Setup timelines
+- License costs  
+- Visa quotas  
+- Business activities  
+- Office requirements  
+- Setup timelines  
 
 Founder AI simplifies this process by providing **AI-driven recommendations** tailored to the founder’s needs.
 
@@ -21,12 +20,12 @@ Founder AI simplifies this process by providing **AI-driven recommendations** ta
 
 ## 🚀 Features
 
-- AI-powered free zone recommendation
-- Smart founder questionnaire
-- Business activity-based suggestions
-- Free zone comparison insights
-- Modern dashboard interface
-- Scalable SaaS-ready architecture
+- AI-powered free zone recommendation  
+- Smart founder questionnaire  
+- Business activity-based suggestions  
+- Free zone comparison insights  
+- Modern dashboard interface  
+- Scalable SaaS-ready architecture  
 
 ---
 
@@ -39,9 +38,6 @@ Founder AI simplifies this process by providing **AI-driven recommendations** ta
 ### Backend
 - Node.js
 - Express.js
-
-### Database
-- MongoDB
 
 ### AI Integration
 - OpenAI API
@@ -82,7 +78,6 @@ Create a `.env` file in the backend folder:
 
 ```env
 PORT=5000
-MONGO_URI=your_mongodb_connection
 OPENAI_API_KEY=your_openai_key
 JWT_SECRET=your_secret
 ```
@@ -115,7 +110,6 @@ founder-ai
 ├── backend
 │   ├── controllers
 │   ├── routes
-│   ├── models
 │   ├── middleware
 │   └── server.js
 │
@@ -124,7 +118,7 @@ founder-ai
 │   │   ├── components
 │   │   ├── pages
 │   │   └── api
-│   
+│
 └── README.md
 ```
 
@@ -143,10 +137,7 @@ founder-ai
 ## 👨‍💻 Author
 
 **Abishek Sathiyan**
-MERN Stack Developer
+FullStack Developer
 
 GitHub:
 [https://github.com/AbishekSathiyan](https://github.com/AbishekSathiyan)
-
----
-
