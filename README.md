@@ -124,7 +124,7 @@ founder-ai
 │   │   ├── components
 │   │   ├── pages
 │   │   └── api
-│
+│   
 └── README.md
 ```
 
@@ -150,9 +150,3 @@ GitHub:
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider **starring the repository** to support the project.
-
-```
-```
